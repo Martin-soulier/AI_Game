@@ -1,4 +1,3 @@
-from tkinter import ALL, HIDDEN
 import numpy as np
 import pygame
 import time 
